@@ -1,0 +1,5 @@
+a=bin(5)
+b=bin(6)
+print(a,'&',b,'=', bin(5&6))
+print(a,'|',b,'=', bin(5|6))
+print(a,'^',b, '=', bin(5^6))
